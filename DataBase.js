@@ -30,7 +30,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_534.png?1776738438",
     goals: "",
     assists: "",
-    matches: "27",
+    matches: "28",
   },
   {
     name: "Дмитро Капінус",
@@ -52,7 +52,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_522.png?1776738478",
     goals: "",
     assists: "3",
-    matches: "18",
+    matches: "14",
   },
   {
     name: "Євген Павлюк",
@@ -63,7 +63,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_576.png?1776738509",
     goals: "2",
     assists: "2",
-    matches: "26",
+    matches: "27",
   },
   {
     name: "Олександр Мартинюк",
@@ -85,7 +85,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_556.png?1776738649",
     goals: "",
     assists: "3",
-    matches: "27",
+    matches: "28",
   },
   {
     name: "Артем Шабанов",
@@ -96,7 +96,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_579.png?1776311695",
     goals: "1",
     assists: "1",
-    matches: "25",
+    matches: "26",
   },
   {
     name: "Валерій Дубко",
@@ -129,7 +129,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_241.png?1776738726",
     goals: "3",
     assists: "3",
-    matches: "25",
+    matches: "26",
   },
   {
     name: "Арі Моура",
@@ -140,7 +140,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_423.png?1776738751",
     goals: "",
     assists: "1",
-    matches: "13",
+    matches: "14",
   },
   {
     name: "Себастіан Кастільо",
@@ -184,7 +184,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_578.png?1776738926",
     goals: "5",
     assists: "4",
-    matches: "25",
+    matches: "26",
   },
   {
     name: "Ніколас Аревало",
@@ -195,7 +195,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_643.png?1776738901",
     goals: "",
     assists: "1",
-    matches: "8",
+    matches: "9",
   },
   {
     name: "Ігор Когут",
@@ -206,7 +206,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_520.png?1776738820",
     goals: "",
     assists: "4",
-    matches: "21",
+    matches: "22",
   },
   {
     name: "Ермір Рашиця",
@@ -217,7 +217,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_564.png?1776738948",
     goals: "3",
     assists: "2",
-    matches: "25",
+    matches: "26",
   },
   {
     name: "Іван Литвиненко",
@@ -239,7 +239,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_513.png?1776311978",
     goals: "1",
     assists: "3",
-    matches: "22",
+    matches: "23",
   },
   {
     name: "Кауан Баптістелла",
@@ -250,7 +250,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_648.png?1776738848",
     goals: "1",
     assists: "",
-    matches: "7",
+    matches: "8",
   },
   {
     name: "Андрій Король",
@@ -283,7 +283,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_614.png?1776312055",
     goals: "3",
     assists: "1",
-    matches: "19",
+    matches: "20",
   },
   {
     name: "Пітер Ітодо",
@@ -294,7 +294,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_580.png?1776738970",
     goals: "12",
     assists: "1",
-    matches: "24",
+    matches: "25",
   },
   {
     name: "Крістіан Мба",
@@ -305,7 +305,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_557.png?1776738793",
     goals: "5",
     assists: "",
-    matches: "20",
+    matches: "21",
   },
 ];
 window.coaches = [
