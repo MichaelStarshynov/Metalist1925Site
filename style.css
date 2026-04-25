@@ -7,7 +7,7 @@ body {
   font-family: sans-serif;
   text-align: center;
   color: black;
-  background-color: yellow;
+  background-image: url(https://pohcdn.com/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/metallist-2.jpg);
   background-size: cover;        /* растягивает без искажений */
   background-position: center;   /* по центру */
   background-repeat: no-repeat;  /* без повторов */
