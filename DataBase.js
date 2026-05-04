@@ -30,7 +30,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_534.png?1776738438",
     goals: "",
     assists: "",
-    matches: "29",
+    matches: "30",
   },
   {
     name: "Дмитро Капінус",
@@ -52,7 +52,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_522.png?1776738478",
     goals: "",
     assists: "3",
-    matches: "15",
+    matches: "16",
   },
   {
     name: "Євген Павлюк",
@@ -63,7 +63,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_576.png?1776738509",
     goals: "2",
     assists: "2",
-    matches: "28",
+    matches: "29",
   },
   {
     name: "Олександр Мартинюк",
@@ -74,7 +74,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_572.png?1776738592",
     goals: "",
     assists: "",
-    matches: "18",
+    matches: "19",
   },
   {
     name: "Ілля Крупський",
@@ -85,7 +85,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_556.png?1776738649",
     goals: "",
     assists: "4",
-    matches: "29",
+    matches: "30",
   },
   {
     name: "Артем Шабанов",
@@ -96,7 +96,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_579.png?1776311695",
     goals: "1",
     assists: "1",
-    matches: "27",
+    matches: "28",
   },
   {
     name: "Валерій Дубко",
@@ -129,7 +129,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_241.png?1776738726",
     goals: "3",
     assists: "3",
-    matches: "27",
+    matches: "28",
   },
   {
     name: "Арі Моура",
@@ -140,7 +140,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_423.png?1776738751",
     goals: "",
     assists: "1",
-    matches: "14",
+    matches: "15",
   },
   {
     name: "Себастіан Кастільо",
@@ -151,7 +151,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_642.png?1775761558",
     goals: "",
     assists: "",
-    matches: "6",
+    matches: "7",
   },
   {
     name: "В'ячеслав Чурко",
@@ -184,7 +184,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_578.png?1776738926",
     goals: "5",
     assists: "4",
-    matches: "27",
+    matches: "28",
   },
   {
     name: "Ніколас Аревало",
@@ -195,7 +195,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_643.png?1776738901",
     goals: "",
     assists: "1",
-    matches: "9",
+    matches: "10",
   },
   {
     name: "Ігор Когут",
@@ -217,7 +217,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_564.png?1776738948",
     goals: "3",
     assists: "2",
-    matches: "27",
+    matches: "28",
   },
   {
     name: "Іван Литвиненко",
@@ -239,7 +239,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_513.png?1776311978",
     goals: "1",
     assists: "3",
-    matches: "23",
+    matches: "24",
   },
   {
     name: "Кауан Баптістелла",
@@ -283,7 +283,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_614.png?1776312055",
     goals: "3",
     assists: "1",
-    matches: "21",
+    matches: "22",
   },
   {
     name: "Пітер Ітодо",
@@ -294,7 +294,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_580.png?1776738970",
     goals: "13",
     assists: "1",
-    matches: "26",
+    matches: "27",
   },
   {
     name: "Крістіан Мба",
@@ -305,7 +305,7 @@ window.team = [
     photo: "https://metalist1925.com/players/foto/img_557.png?1776738793",
     goals: "5",
     assists: "",
-    matches: "22",
+    matches: "23",
   },
 ];
 window.coaches = [
@@ -415,13 +415,6 @@ window.managment = [
 ];
   window.matches = [
 {
-  date: "03.05.26",
-  opponent: "Полісся Житомир",
-  time: "15:30",
-  place: "Центральний стадіон Полісся, Житомир",
-  competition: "УПЛ",
-},
-{
   date: "09.05.26",
   opponent: "Зоря Луганьск",
   time: "18:00",
@@ -452,6 +445,13 @@ window.managment = [
 ];
 window.results = [
 {
+  date: "03.05.26",
+  opponent: "Полісся Житомир",
+  score: "0-1",
+  place: "Центральний стадіон Полісся, Житомир",
+  competition: "УПЛ",
+},
+  {
   date: "26.04.26",
   opponent: "ЛНЗ Черкаси",
   place: "Центральний стадіон, Черкаси",
