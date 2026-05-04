@@ -136,7 +136,7 @@ text: `<h3>Логотип клубу:</h3> <img src="https://upload.wikimedia.or
   Команда: { title: `Team` },
   Матчі: { 
     title: `Матчі`, 
-    text:  `<p>Місце в УПЛ: 4 місце</p><p>Місце в Кубку України: виліт в кубку України</p>`
+    text:  `<p>Місце в УПЛ: 5 місце</p><p>Місце в Кубку України: виліт в 1/2 кубку України</p>`
   },
    Тренери: { title: `Coaches` },
    Легенди: { title: `Legends` },
@@ -214,7 +214,7 @@ text: `<h3>Логотип клубу:</h3> <img src="https://upload.wikimedia.or
          <tr  class="highlight-shakhtar">
           <td>5</td>
           <td class="team">Металіст 1925</td>
-          <td>25</td>
+          <td>26</td>
           <td>12</td>
           <td>9</td>
           <td>5</td>
