@@ -573,7 +573,7 @@ function showManagment() {
   content.innerHTML = '';
 
   const title = document.createElement('h2');
-  title.textContent = 'Менеджмент ФК Шахтар';
+  title.textContent = 'Менеджмент Металіста 1925';
   content.appendChild(title);
 
   const container = document.createElement('div');
@@ -614,10 +614,10 @@ function showPlayerDetails(player) {
   content.appendChild(title);
 
   const img = document.createElement('img');
-  img.src = player.photo;
+  img.src = player.photo2;
   img.alt = player.name;
   img.className = 'player-photo-large';
-  img.style.maxWidth = '250px';
+  img.style.maxWidth = '500px';
   img.style.borderRadius = '15px';
   img.style.display = 'block';
   img.style.margin = '20px auto';
